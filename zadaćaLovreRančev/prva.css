@@ -1,0 +1,31 @@
+h1{
+	background-color:#fc5a03;
+	color:#13e84b;
+}
+p{
+	color:#139de8;
+}
+p{
+	background-color:#e81313;
+}
+h2{
+	background-color:#37e813;
+	color:#13d6e8;
+}
+ul{
+	background-color:#1713e8;
+	color:#13e861;
+}
+a:link{
+	background-color:#c8e813;
+	color:#1e13e8;
+}
+.svijetlocrvena{
+	background-color:#1e13e8;
+}
+.tamnocrvena{
+	background-color:#41e813;
+}
+#drugi{
+	background-color:#1e13e8;
+}
